@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Anderson Garcia Soares
+# 👋 Hello, I'm Anderson Garcia Soares. Welcome to my GitHub profile!
 
-### 🧪 Quality Assurance | Automação de Testes | Testes Funcionais e Não-Funcionais
+### 🧪 Quality Assurance | Test Automation | Functional and Non-Functional Testing
 
-Profissional de QA com sólida experiência em garantir a qualidade e confiabilidade de software através de práticas modernas de **Automação de Testes**, **Testes de Integração** e **Testes de Performance**. Focada em assegurar que produtos atendam aos mais altos padrões, eu trabalho de perto com times de desenvolvimento para impulsionar **estratégias ágeis** e **entregas contínuas**.
+QA professional with solid experience in ensuring software quality and reliability through modern practices in **Test Automation**, **Integration Testing**, and **Performance Testing**. Focused on ensuring products meet the highest standards, I work closely with development teams to drive **agile strategies** and **continuous delivery**.
 
 ---
 
