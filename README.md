@@ -8,7 +8,7 @@ Profissional de QA com sólida experiência em garantir a qualidade e confiabili
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <!-- Primeira linha de ícones -->
+  
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
   ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=white)
@@ -21,7 +21,7 @@ Profissional de QA com sólida experiência em garantir a qualidade e confiabili
 </p>
 
 <p align="center">
-  <!-- Segunda linha de ícones -->
+  
   ![DBeaver](https://img.shields.io/badge/-DBeaver-372927?logo=dbeaver&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
