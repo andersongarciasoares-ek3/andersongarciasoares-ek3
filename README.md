@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anderson Garcia Soares. Welcome to my GitHub profile!
+# <div class="tenor-gif-embed" data-postid="5633575983550771223" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/anime-gif-5633575983550771223">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> Hello, I'm Anderson Garcia Soares. Welcome to my GitHub profile!
 
 ### 🧪 Quality Assurance | Test Automation | Functional and Non-Functional Testing
 
