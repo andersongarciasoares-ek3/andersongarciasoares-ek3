@@ -1,4 +1,4 @@
-# ![hello gif](https://giphy.com/gifs/hello) Hello, I'm Anderson Garcia Soares. Welcome to my GitHub profile!
+# 👋 Hello, I'm Anderson Garcia Soares. Welcome to my GitHub profile!
 
 ### 🧪 Quality Assurance | Test Automation | Functional and Non-Functional Testing
 
