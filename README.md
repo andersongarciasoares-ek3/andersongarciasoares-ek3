@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Anderson Garcia Soares
 
 ### 🧪 Quality Assurance | Automação de Testes | Testes Funcionais e Não-Funcionais
 
@@ -29,5 +29,5 @@ Profissional de QA com sólida experiência em garantir a qualidade e confiabili
 ---
 
 ### 📊 GitHub Status
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andersongarciasoares-ek3&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongarciasoares-ek3&layout=compact&theme=radical)
