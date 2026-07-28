@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="./nome-do-gif.gif" width="850" alt="Animação de tecnologia">
+</p>
+
 # Hi, I'm Anderson Garcia Soares 👋
 
 ### Senior QA Automation Engineer | Playwright, Cypress, Selenium, API Testing, Postman, SQL, Python & JavaScript 
