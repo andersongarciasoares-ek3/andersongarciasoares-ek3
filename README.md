@@ -7,7 +7,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./setup-qa.gif" width="850" alt="Setup de tecnologia animado">
+  <img src="./setup-qa.gif (1).gif" width="850" alt="Setup de tecnologia animado">
 </p>
 
 # Hi, I'm Anderson Garcia Soares 👋
